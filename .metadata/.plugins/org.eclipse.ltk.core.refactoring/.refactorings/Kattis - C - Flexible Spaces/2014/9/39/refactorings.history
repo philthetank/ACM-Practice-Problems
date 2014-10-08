@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;partitons&apos; in &apos;Main.main(...)&apos; to &apos;partition&apos;&#x0A;- Original project: &apos;Kattis - C - Flexible Spaces&apos;&#x0A;- Original element: &apos;Main.main(String[]).partitons&apos;&#x0A;- Renamed element: &apos;partitons&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;partitons&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Main.java[Main~main~\[QString;@partitons!289!325!293!301!\[I!0!false" name="partition" references="true" stamp="1411851490131" version="1.0"/>
-</session>
