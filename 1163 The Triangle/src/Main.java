@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
+// Fall 2014
 // http://poj.org/problem?id=1163
+// Accepted with 5272K and 1047MS
 
 public class Main {
 

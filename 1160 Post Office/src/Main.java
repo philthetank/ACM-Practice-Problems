@@ -1,6 +1,8 @@
 import java.util.Scanner;
 
+// Fall 2014
 // http://poj.org/problem?id=1160
+// Work in progress
 
 public class Main {
 
@@ -9,6 +11,8 @@ public class Main {
 		int nVillage = sc.nextInt();
 		int nPostOffice = sc.nextInt();
 
+		int butts = 0;
+		
 		int village[] = new int[nVillage];
 		for (int i = 0; i < village.length; i++) {
 			village[i] = sc.nextInt();

@@ -1,5 +1,9 @@
 import java.util.Scanner;
 
+// Fall 2014
+// http://poj.org/problem?id=2309
+// Accepted with 5236K 438MS
+
 public class Main {
 
 	public static void main(String[] args) {

@@ -1,6 +1,10 @@
 import java.util.Scanner;
 import java.util.Stack;
 
+// Fall 2014
+// http://poj.org/problem?id=3367
+// Work in progress
+
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
